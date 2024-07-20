@@ -16,8 +16,8 @@ This project is a game account management system that allows players to purchase
 ## Requirements
 
 - Node.js
-- MongoDB
-- dotenv
+- MongoDB Database
+- .env file with `MONGODB_URI` variable
 
 #### Please ensure that you have a database named `game_db` with the following collections:
 
