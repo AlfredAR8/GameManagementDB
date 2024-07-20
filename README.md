@@ -19,6 +19,11 @@ This project is a game account management system that allows players to purchase
 - MongoDB
 - dotenv
 
+#### Please ensure that you have a database named `game_db` with the following collections:
+
+- `accounts`
+- `items`
+
 ## Installation
 
 1. Clone this repository:
