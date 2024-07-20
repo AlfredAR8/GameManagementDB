@@ -94,4 +94,4 @@ useItem("player1", "id_28_shield", "a1b2c3d4e5f6");
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AlfredAR8/GameManagementDB/blob/main/LICENSE) file for details.
